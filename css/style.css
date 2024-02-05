@@ -1,0 +1,30 @@
+div{
+	color:rgb(13, 56, 121);
+}
+h1{
+	color: blueviolet;
+}
+h2{
+	color: rgb(70, 19, 117);
+}
+h3{
+	color: rgb(6, 106, 146);
+}
+.text{
+	color: rgb(0, 36, 90);
+}
+.color-green{
+	color: rgb(7, 87, 20);
+}
+#red{
+	color: brown;
+}
+div.text{
+	color: rgb(44, 165, 165);
+}
+.lesson.text {
+	color: rgb(143, 29, 82);
+}
+.text > p {
+	color: rgb(51, 137, 172);
+}
